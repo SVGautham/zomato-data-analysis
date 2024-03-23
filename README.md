@@ -1,3 +1,8 @@
-# zomato-data-analysis
+# Zomato Data Set Analysis
 
-a comprehensive full-stack data analysis project, showcasing my proficiency in data cleaning, exploratory data analysis, feature engineering, and dashboard creation. Commencing with the acquisition of the Zomato dataset from the internet, I meticulously curated and cleaned the data using advanced techniques with Python libraries such as NumPy, Pandas, Matplotlib, and Seaborn. The exploratory data analysis phase revealed valuable insights, guiding the subsequent feature engineering to enhance the dataset's predictive power. The analysis results, enriched with insightful visualizations, were instrumental in drawing meaningful conclusions. To extend the impact of my findings, I seamlessly integrated Excel data into PowerBI, where I crafted an aesthetically pleasing and informative dashboard. This project not only demonstrates my expertise in data analysis but also highlights my ability to extract actionable insights through exploratory data analysis in jupyter notebook.
+
+
+->Integrated Excel data seamlessly into PowerBI for enriched visualizations and interactive dashboards, facilitating data-driven decision-making processes.<br>
+->Spearheaded a comprehensive full-stack data analysis project, demonstrating expertise in data cleaning, exploratory data analysis (EDA), feature engineering, and dashboard creation.<br>
+->Integrated Excel data seamlessly into PowerBI for enriched visualizations and interactive dashboards, facilitating data-driven decision-making processes. ->Spearheaded a comprehensive full-stack data analysis project, demonstrating expertise in data cleaning, exploratory data analysis (EDA), feature engineering, and dashboard creation.<br>
+Skills: EDA · Panda · Python (Programming Language) · Microsoft Excel · Seaborn · Matplotlib · DAX
